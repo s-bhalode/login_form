@@ -12,7 +12,7 @@
 ✔ Fork this repo.<br/>
 ✔ Clone on your local machine<br/>
 ```terminal
-git clone https://github.com/s-bhalode/Hacktoberfest-2023.git
+git clone https://github.com/s-bhalode/login_form.git
 ```
 ✔ Navigate to project directory.
 ```terminal
