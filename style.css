@@ -29,7 +29,7 @@ body {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  background-color: #243946;
+  background-color: #232b30;
 }
 .container .ear.ear--left {
   left: -135px;
@@ -134,7 +134,7 @@ body {
   top: 0;
   width: 30px;
   height: 5px;
-  background-color: #a5898d6f;
+  background-color: #fcb7bf;
 }
 .container .median {
   position: absolute;
@@ -144,7 +144,7 @@ body {
   width: 4px;
   height: 25px;
   border-radius: 5px;
-  background-color: #e47380;
+  background-color: #fcb7bf;
 }
 .container .hands {
   position: relative;
@@ -194,7 +194,7 @@ body {
   height: 18px;
   border-radius: 50%;
   border: 2px solid #243946;
-  background-color: #0a0a0ac9;
+  background-color: #fac555;
   z-index: -1;
 }
 .container .hands .finger:nth-child(1),
