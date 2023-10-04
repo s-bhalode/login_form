@@ -3,9 +3,8 @@
 
 ## Contribution Rules 👇👇
 🛑 You are allowed to make pull requests that break the rules. We just merge it.<br/>
-🛑 Do NOT add any build steps e.g npm install (keep this as a simple static site).<br/>
+🛑 Do NOT add any build steps e.g npm install.<br/>
 🛑 Do NOT remove other content.<br/>
-🛑 Add your name to the contributorsList file.<br/>
 🛑 Try to keep pull requests small to minimize merge conflicts<br/>
 
 ## Geting Started😁😁:
@@ -23,11 +22,6 @@ cd Hacktoberfest-2023
 ```markdown
 git checkout -b your-name-branch
 ```
-✔ Create new readme.md file with your name at the following path
-```markdown
-constributors/participants/yourName.md
-```
-
 ✔ Make some enhancement changes to the project
 
 ✔ Add your changes
